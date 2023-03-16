@@ -48,7 +48,7 @@
 
 ## Github Analytics
 
-<p align="center">
+<p align="left">
   <a href="https://coderstats.net/github/#bramvdklinkenberg">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bramvdklinkenberg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bramvdklinkenberg&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
