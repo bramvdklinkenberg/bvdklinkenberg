@@ -19,14 +19,6 @@
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=flat-square&logo=datacamp&logoColor=03E860">
 </a>
 
-<a href="https://www.meetup.com/members/180646052/">
-    <img src="https://img.shields.io/badge/Meetup-f64363?style=flat-square&logo=meetup&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/channel/UCtMm7g81SAug88KIjEwroSA">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white">
-</a>
-
 <a href="https://substack.com/profile/125152100-bram-van-den-klinkenberg">
     <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat-square&logo=substack&logoColor=FF6719">
 </a>
@@ -37,7 +29,6 @@
 
 </p>
 
-# More info soon!
 
 
 
