@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&multiline=true&width=750&height=120&lines=Bram+van+den+Klinkenberg;--------------------------------------------------;Passionate+Azure+Cloud+Engineer+%E2%98%85+Azure+MVP+%E2%98%85+MCT;Family+man+%E2%98%85+Proud+Father+of+Four+%E2%98%85+ADHD+%E2%98%85+Mental+Health;" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&multiline=true&width=750&height=120&lines=Bram+van+den+Klinkenberg;--------------------------------------------------;Passionate+Azure+Cloud+Engineer+%E2%98%85+Azure+exMVP+%E2%98%85+exMCT;Family+man+%E2%98%85+Proud+Father+of+Four+%E2%98%85+ADHD+%E2%98%85+Mental+Health;" alt="Typing SVG" />
 </a>
 <br/>
 
